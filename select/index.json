@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "晴るる",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-03-22T22:22:15.979501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "晴るる - Acoustic ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_晴るる_-_Acoustic_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "晴るる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_晴るる_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "晴るる",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_晴るる_あたらよ.txt"
+    }
+  ]
+}
